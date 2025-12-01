@@ -47,7 +47,7 @@ Two thirds of the participants completed our **exit-survey**, and results were o
 
 ![NextGen 2016 Exit Survey](images/Picture1-2-1000x309.png)
 
-There are always things that could have gone better, and that we will of course aim to improve! The two points participants liked least were the venue for the poster session (5% very poor; 19% poor) and the time available for the multidisciplinary workshops (7% very poor; 24% poor[\[1\]](#_ftn1)).
+There are always things that could have gone better, and that we will of course aim to improve! The two points participants liked least were the venue for the poster session (5% very poor; 19% poor) and the time available for the multidisciplinary workshops (7% very poor; 24% poor[1]).
 
 **A big “thank you!” to…**
 
@@ -61,4 +61,4 @@ Keep an eye out for NextGen@Helmholtz 2017 at the Helmholtz Centre for Ocean Res
 
 ![NextGen 2016 Group Picture](images/Gruppe.jpg)
 
-[\[1\]](#_ftnref1) Excluding 33 participants (42%) who did not answer this question
+[1] Excluding 33 participants (42%) who did not answer this question

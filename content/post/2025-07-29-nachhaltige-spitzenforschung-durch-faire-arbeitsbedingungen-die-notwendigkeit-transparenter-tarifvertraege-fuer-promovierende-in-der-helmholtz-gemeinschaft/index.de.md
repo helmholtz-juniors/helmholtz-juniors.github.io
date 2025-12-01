@@ -1,0 +1,66 @@
+---
+title: "Nachhaltige Spitzenforschung durch faire Arbeitsbedingungen"
+date: 2025-07-29
+categories: 
+  - "general"
+  - "helmholtz-juniors-work"
+  - "reports"
+  - "statements"
+image: "images/Blog-banner.png"
+---
+
+_**Positionspapier der Helmholtz Juniors Arbeitsgruppe für Arbeitsbedingungen**_ _**Position paper by the Helmholtz Juniors working group for working conditions**_
+
+### Die Notwendigkeit transparenter Tarifverträge für Promovierende in der Helmholtz-Gemeinschaft
+
+Die Rekrutierung nationaler und internationaler Spitzentalente stellt im hoch kompetitiven Umfeld der akademischen Forschung eine große Herausforderung dar und ist für die Helmholtz-Gemeinschaft Deutscher Forschungszentren (HGF) von entscheidender Bedeutung. Um im Wettbewerb um wissenschaftlichen Fortschritt bestehen zu können, muss die HGF dabei auf attraktive und verlässliche Arbeitsbedingungen für ihre Nachwuchskräfte setzen1. In der Realität werden vorwiegend individuelle Verträge zwischen dem jeweiligen Helmholtz Zentrum und forschenden DoktorandInnen abgeschlossen, was sowohl die Transparenz der konkreten Vertragsinhalte als auch die von der HGF angestrebte Chancengleichheit mindert. Als Stimme der Promovierenden innerhalb der HGF setzen sich die Helmholtz Juniors daher für die Eingliederung der an Helmholtz-Zentren angestellten Promovierenden in den Tarifvertrag für den öffentlichen Dienst (TVöD) Stufe E13 ein. Nur so können faire und transparente Arbeitsbedingungen gesichert und Spitzentalente gewonnen werden.
+
+Im Folgenden sollen die Vorteile von Tarifverträgen gegenüber individuellen Verträgen, auch Förderverträge genannt, betrachtet werden. Stipendien hingegen bieten fast ausschließlich nicht die notwendige soziale Absicherung und Stabilität.
+
+### Tarifverträge schaffen Transparenz
+
+Die Wissenschaft als internationales Arbeitsfeld braucht Regelungen, die auch im internationalen Kontext transparent und verständlich sind1. In einer Stellungnahme zur Novelle des Wissenschaftszeitvertragsgesetzes (WissZeitVG) warnt die Allianz der Wissenschaftsorganisationen vor der Gefahr einer unübersichtlichen Vielfalt von Regelungen und schlimmstenfalls einem Gefälle zwischen Organisationen2. Die Max-Planck-Gesellschaft bietet beispielsweise zumindest einheitliche (Förder)Verträge, während die HGF eine bemerkenswerte Vielfalt von Verträgen für forschende DoktorandInnen aufweist. Die gängigste Vertragsform in der HGF sind außertarifliche, individuelle Verträge mit Laufzeiten von zwei bis vier Jahren und Vergütungen von 55% bis 100%. Eine einzelvertragliche Anwendung des TVöD gibt es nur in etwa einem Drittel der Zentren. Trotz eines Anwendungstarifvertrags mit der Vereinten Dienstleistungsgewerkschaft (ver.di) hebeln zwei dieser Helmholtz-Zentren unter Verwendung des § 1 Abs. 2 Buchstabe s TVöD Tarifverträge für Promovierende jedoch faktisch aus. Zwei weitere Zentren sind aus ihrer Historie heraus an Hochschulen angegliedert, daher wird dort institutsweit der Tarifvertrag für den öffentlichen Dienst der Länder (TV-L) angewendet, für den eine andere Entgelttabelle gilt. Diese unübersichtliche und willkürliche Mischung führt zu einer problematischen Vielzahl von Regelungen, die nicht nur Transparenz verhindert, sondern auch Ungleichheiten zwischen den Promovierenden in der HGF schafft. Dies beeinträchtigt die Chancengleichheit, und erschwert das Verständnis der Arbeitsbedingungen aus internationaler Sicht.
+
+### Tarifverträge sichern Chancengleichheit
+
+Die Verbesserung der Chancengleichheit ist eine zentrale Priorität in der HGF - dieser Aspekt ist fest in der HGF Mission verankert und ein integraler Bestandteil des Talentmanagements3. Tarifverträge sind durch ihre Einheitlichkeit ein wichtiges Mittel, welches wesentlich zur HGF-weiten Chancengleichheit beitragen kann. Dabei legen tarifgebundene Arbeitsverträge einen einheitlichen Mindeststandard fest, der regelmäßig öffentlich verhandelt wird und für alle Promovierenden gilt. Tarifgebundene Arbeitsverträge garantieren die einheitliche Regelung der Arbeitszeit sowie der Urlaubstage, die Anerkennung von Berufserfahrung bei der Vergütung sowie eine soziale Absicherung über zusätzliche Leistungen, beispielsweise der betrieblichen Altersvorsorge. Individuelle Verträge hingegen können in ihrem Inhalt stark variieren, und unterliegen den einseitigen Vorgaben der Zuwendungsgeber, wie beispielsweise des Bundesministeriums für Forschung, Technologie und Raumfahrt (BMFTR), früher Bundesministerium für Bildung und Forschung (BMBF), die als Maximalstandards definiert werden und so die Abweichung nach unten in das Ermessen der einzelnen Institute legen. Dies eröffnet Wege für Missbrauch und die Schlechterstellung einzelner Promovierender. Bei Tarifbindung wird jede Änderung des Tarifvertrags unmittelbar auf die einzelnen Arbeitsverträge angewendet. Im Gegensatz hierzu stehen individuelle Verträge, in denen sich Neuregelungen lediglich in neu abgeschlossenen Arbeitsverträgen niederschlagen. Tarifverträge bieten hier also vollständige Transparenz und legen die Grundlage für Chancengleichheit.
+
+ 
+
+### Tarifverträge erhöhen die Attraktivität und Zufriedenheit
+
+Nachhaltige und faire Arbeitsbedingungen sind nicht nur ein Schlüssel zur Zukunftsfähigkeit, sondern auch ein entscheidender Faktor für die langfristige Attraktivität und den Erfolg von Forschungseinrichtungen in einer zunehmend wettbewerbsorientierten akademischen Landschaft - ein Prinzip, das die Helmholtz-Gemeinschaft bereits 2016 in dem Leitfaden Nachhaltigkeitsmanagment (LeNa) verankert hat, indem sie die Erschließung neuer Entwicklungs- und Karrierewege und die Vermeidung prekärer Beschäftigungsverhältnisse vor allem für den wissenschaftlichen Nachwuchs in den Fokus rückte4. Wettbewerbsfähige Arbeitsbedingungen bilden die Grundlage, um talentierten Nachwuchs aus dem nationalen und internationalen Umfeld für die akademische Forschung anzuwerben und zu halten5,6. Eine Studie aus dem Jahr 2020 hat dabei festgestellt, dass in der akademischen Forschung gute Arbeitsbedingungen und Karriereaussichten die Triebkräfte für Innovation darstellen7. Die Schaffung guter Arbeitsbedingungen wirkt sich in zweierlei Hinsicht positiv aus: Einerseits führen gesicherte Arbeitsverhältnisse zu höherer Zufriedenheit und Produktivität8[](#_ftn2), andererseits steigt die Attraktivität des Arbeitgebers für internationale Spitzentalente. Die Arbeitszufriedenheit prägt damit maßgeblich die Attraktivität des öffentlichen Wissenschaftssektors. Durch die Einführung transparenter, einheitlicher Arbeitsverträge auf der Basis einer verbindlichen, institutionellen Anwendung des TVöD für Promovierende kann die HGF ihren Promovierenden nachhaltige, faire und gute Arbeitsbedingungen bieten und so Nachwuchstalente in Zeiten des Fachkräftemangels im öffentlichen Wissenschaftssektor halten.
+
+ 
+
+### Tarifverträge reduzieren Bürokratie
+
+Die Inflationsausgleichszahlung im Jahr 2023 hat gezeigt, dass die Vielzahl an Vertragsarten einerseits zu erhöhtem Verwaltungsaufwand, andererseits zu Ratlosigkeit und Unsicherheit unter Promovierenden führt.  Die Einführung des Tarifvertrags für alle Promovierenden vereinfacht hier Verwaltungsprozesse und schafft gleichzeitig die Unabhängigkeit von der Weisungsbefugnis der Zuwendungsgeber wie des BMFTR, da das Tarifrecht ministerielle Vorgaben und Ermächtigungen bricht. Dies kommt sowohl den Forschenden als auch dem Verwaltungspersonal zugute und schafft eine kohärente und effiziente Organisationsstruktur, erhöht Transparenz und sichert die Attraktivität der Helmholtz-Zentren als Arbeitgeber.
+
+ 
+
+### Fazit
+
+Zusammenfassend wollen wir unterstreichen, dass die verbindliche institutionelle Anwendung des TVöD ausnahmslos für alle Promovierenden an allen Helmholtz-Zentren eine notwendige Maßnahme darstellt. Sie entspricht den Interessen der HGF, da sie deren Wettbewerbsfähigkeit bei der Gewinnung nationaler und internationaler Talente erhöht, hohe Zufriedenheit und Produktivität der Forschenden sicherstellt, Chancengleichheit fördert und administrative Prozesse vereinfacht. Durch die Unterstützung dieser Initiative kann die HGF ihre Position als führende Akteurin in Forschung und Innovation weiter ausbauen.
+
+ 
+
+_Die Helmholtz Juniors vertreten die rund 8.000 DoktorandInnen innerhalb der Helmholtz-Gemeinschaft. Die Helmholtz Juniors setzen sich für die Einführung von Tarifverträgen für Promovierende in der gesamten Helmholtz-Gemeinschaft Deutscher Forschungszentren e.V. ein. Diese Position wurde einstimmig auf der Helmholtz Juniors Jahrestagung 2024 beschlossen._
+
+ 
+
+1 - Helmholtz-Promotionsleitlinien (2019), online unter:      [https://www.helmholtz.de/fileadmin/upload\_Karriere/190520\_Helmholtz\_Promotionsleitlinien\_DE.pdf](https://www.helmholtz.de/fileadmin/upload_Karriere/190520_Helmholtz_Promotionsleitlinien_DE.pdf)
+
+2 - Allianz der Wissenschaftsorganisationen, Stellungnahme 27. März 2023: Für attraktive wissenschaftliche Karrieren in Deutschland,      online unter: [Wissenschaftskarrieren ermöglichen](https://www.allianz-der-wissenschaftsorganisationen.de/wp-content/uploads/2023/06/200230616_Allianz-Kommentierung_Referentenentwurf-WissZeitVG_Wissenschaftskarrieren-ermoeglichen_fin-1.pdf) [–](https://www.allianz-der-wissenschaftsorganisationen.de/wp-content/uploads/2023/06/200230616_Allianz-Kommentierung_Referentenentwurf-WissZeitVG_Wissenschaftskarrieren-ermoeglichen_fin-1.pdf) [Kommentierung der Allianz der Wissenschaftsorganisationen zum WissZeitVG](https://www.allianz-der-wissenschaftsorganisationen.de/wp-content/uploads/2023/06/200230616_Allianz-Kommentierung_Referentenentwurf-WissZeitVG_Wissenschaftskarrieren-ermoeglichen_fin-1.pdf)
+
+3 - Helmholtz Homepage, online unter: [www.helmholtz.de/ueber](http://www.helmholtz.de/ueber-uns/wer-wir-sind/zahlen-und-fakten-neu/talentfoerderung)[\-](http://www.helmholtz.de/ueber-uns/wer-wir-sind/zahlen-und-fakten-neu/talentfoerderung)[uns/wer](http://www.helmholtz.de/ueber-uns/wer-wir-sind/zahlen-und-fakten-neu/talentfoerderung)[\-](http://www.helmholtz.de/ueber-uns/wer-wir-sind/zahlen-und-fakten-neu/talentfoerderung)[wir](http://www.helmholtz.de/ueber-uns/wer-wir-sind/zahlen-und-fakten-neu/talentfoerderung)[\-](http://www.helmholtz.de/ueber-uns/wer-wir-sind/zahlen-und-fakten-neu/talentfoerderung)[sind/zahlen](http://www.helmholtz.de/ueber-uns/wer-wir-sind/zahlen-und-fakten-neu/talentfoerderung)[\-](http://www.helmholtz.de/ueber-uns/wer-wir-sind/zahlen-und-fakten-neu/talentfoerderung)[und](http://www.helmholtz.de/ueber-uns/wer-wir-sind/zahlen-und-fakten-neu/talentfoerderung)[\-](http://www.helmholtz.de/ueber-uns/wer-wir-sind/zahlen-und-fakten-neu/talentfoerderung)[fakten](http://www.helmholtz.de/ueber-uns/wer-wir-sind/zahlen-und-fakten-neu/talentfoerderung)[\-](http://www.helmholtz.de/ueber-uns/wer-wir-sind/zahlen-und-fakten-neu/talentfoerderung)[neu/talentfoerderung,](http://www.helmholtz.de/ueber-uns/wer-wir-sind/zahlen-und-fakten-neu/talentfoerderung) Stand 2024
+
+4 - Ferretti, J. et al.: LeNa-Handreichung. Nachhaltigkeitsmanagement in außeruniversitären Forschungsorganisationen, 2016, online unter: [https://www.helmholtz.de/fileadmin/user\_upload/LeNa-Leitfaden\_Nachhaltigkeitsmanagement\_2016.pdf](https://www.helmholtz.de/fileadmin/user_upload/LeNa-Leitfaden_Nachhaltigkeitsmanagement_2016.pdf)
+
+5 - Barcan, R. (2018). Paying dearly for privilege: conceptions, experiences and temporalities of vocation in academic life. _Pedagogy,_      _Culture & Society,_ _26_, 105-121. [https://doi.org/10.1080/14681366.2017.1358207](https://doi.org/10.1080/14681366.2017.1358207)
+
+6 - Reymert, I., Vabø, A., Borlaug, S.B. _et al._ (2023). Barriers to attracting the best researchers: perceptions of academics in economics      and physics in three European countries. _High Educ_ 86, 1173–1193 (2023). [https://doi.org/10.1007/s10734-022-00967-w](https://doi.org/10.1007/s10734-022-00967-w)
+
+7 - Castellacci, F., & Viñas-Bardolet, C. (2020). Permanent contracts and job satisfaction in academia: evidence from European      Studies in Higher Education, 46(9), 1866–1880. [https://doi.org/10.1080/03075079.2019.1711041](https://doi.org/10.1080/03075079.2019.1711041)
+
+[](#_ftnref2)8 - Bryson, Alex and Forth, John and Stokes, Lucy, Does Worker Wellbeing Affect Workplace Performance? IZA Discussion Paper No. 9096, Available at SSRN: [https://ssrn.com/abstract=2655044](https://ssrn.com/abstract=2655044) or [http://dx.doi.org/10.2139/ssrn.2655044](http://dx.doi.org/10.2139/ssrn.2655044)

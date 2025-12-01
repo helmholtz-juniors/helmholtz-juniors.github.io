@@ -1,0 +1,12 @@
+# Rename this file to languages.toml to enable multilingual support
+[en]
+languageName = "English"
+languagedirection = "ltr"
+title = "Helmholtz Juniors"
+weight = 1
+
+[de]
+languageName = "Deutsch"
+languagedirection = "ltr"
+title = "Helmholtz Juniors"
+weight = 1

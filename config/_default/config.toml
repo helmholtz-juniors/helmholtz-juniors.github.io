@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://helmholtz-juniors.github.io"
+baseurl = "https://blog.helmholtz-juniors.de"
 languageCode = "en-us"
 title = "Helmholtz Juniors"
 
